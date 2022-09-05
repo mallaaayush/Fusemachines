@@ -6,3 +6,6 @@ zyz
 zxcxzc
 
 asdsaf
+
+
+git stash
